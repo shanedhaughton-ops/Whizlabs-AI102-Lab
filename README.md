@@ -2,6 +2,12 @@
 
 This lab demonstrates how to perform **Sentiment Analysis with Opinion Mining** using **Azure AI Language Service** in a `.NET Core` console application.  
 It is aligned with the **Microsoft Azure AI Engineer (AI-102)** certification objectives.
+
+What is Azure Language service? 
+Azure Language Service is a cloud-based suite of natural language processing (NLP) capabilities offered by Microsoft Azure. 
+It enables developers to build applications that can understand and process human language in various forms.
+The service provides a range of features that leverage machine learning models to analyze and derive insights from text, making it easier to incorporate language understanding and processing capabilities into applications. 
+
 <img width="1088" height="520" alt="create_a_virtual_machine_44_17" src="https://github.com/user-attachments/assets/77622008-0cad-40ac-aba3-611f54741368" />
 
 ## 🧠 Overview
