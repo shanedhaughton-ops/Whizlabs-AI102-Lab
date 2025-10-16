@@ -32,7 +32,7 @@ The service provides a range of features that leverage machine learning models t
    - Resource group: existing
    - Region: **East US**
    - Name: unique (e.g., `ai102-lang-demo`)
-   - Pricing tier: **S (1k calls/min)**
+   - Pricing tier: ****
 4. Check **Responsible AI Notice** → **Review + Create** → **Create**.
 
 ### Task 3 – Create Environment Variables
