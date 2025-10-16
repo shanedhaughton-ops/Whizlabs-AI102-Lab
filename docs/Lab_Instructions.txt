@@ -1,0 +1,9 @@
+Whizlabs AI-102 Lab – Sentiment Analysis with Opinion Mining
+
+Tasks:
+1) Sign in to Azure Portal (Incognito recommended). 
+2) Create Language Service: East US, S tier, accept Responsible AI notice.
+3) Set environment variables: LANGUAGE_KEY, LANGUAGE_ENDPOINT.
+4) Build .NET Core console app; install Azure.AI.TextAnalytics via NuGet.
+5) Run; observe document and sentence-level sentiment, plus opinion targets.
+6) Validate in Whizlabs; delete resources in Resource Group when done.
