@@ -2,6 +2,7 @@
 
 This lab demonstrates how to perform **Sentiment Analysis with Opinion Mining** using **Azure AI Language Service** in a `.NET Core` console application.  
 It is aligned with the **Microsoft Azure AI Engineer (AI-102)** certification objectives.
+<img width="1088" height="520" alt="create_a_virtual_machine_44_17" src="https://github.com/user-attachments/assets/77622008-0cad-40ac-aba3-611f54741368" />
 
 ## 🧠 Overview
 - Create and configure an **Azure AI Language** resource.
