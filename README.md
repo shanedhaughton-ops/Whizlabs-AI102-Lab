@@ -1,7 +1,5 @@
 # Whizlabs AI-102 Lab – Sentiment Analysis with Opinion Mining
 
-This lab demonstrates how to perform **Sentiment Analysis with Opinion Mining** using **Azure AI Language Service** in a `.NET Core` console application.  
-It is aligned with the **Microsoft Azure AI Engineer (AI-102)** certification objectives.
 
 What is Azure Language service? 
 Azure Language Service is a cloud-based suite of natural language processing (NLP) capabilities offered by Microsoft Azure. 
