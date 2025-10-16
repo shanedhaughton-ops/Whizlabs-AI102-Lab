@@ -8,14 +8,14 @@ The service provides a range of features that leverage machine learning models t
 
 <img width="1088" height="520" alt="create_a_virtual_machine_44_17" src="https://github.com/user-attachments/assets/77622008-0cad-40ac-aba3-611f54741368" />
 
-## 🧠 Overview
+## Overview
 - Create and configure an **Azure AI Language** resource.
 - Set environment variables for secure authentication.
 - Build a `.NET Core` console app using **Azure.AI.TextAnalytics**.
 - Run sentiment analysis with opinion mining.
 - Validate and clean up your Azure resources.
 
-## 🧩 Lab Tasks
+## Lab Tasks
 
 ### Task 1 – Sign in to Azure Portal
 1. Go to https://portal.azure.com (Incognito recommended).  
@@ -53,12 +53,12 @@ Use Whizlabs **Validate My Lab** to confirm completion.
 ### Task 6 – Delete Resources
 In **Resource groups**, select lab resources → **Delete** → type `delete` to confirm.
 
-## 🧩 Code Explanation
+## Code Explanation
 - Uses **environment variables** for credentials.
 - **TextAnalyticsClient** calls `AnalyzeSentimentBatch` with opinion mining enabled.
 - Prints overall and per-sentence sentiment with opinion targets/assessments.
 
-## ✅ Lab Summary
+## Lab Summary
 - Deployed Language Service and configured secure access.
 - Implemented sentiment + opinion mining in a .NET console app.
 - Validated outputs and deleted resources post-lab.
